@@ -33,7 +33,7 @@ $(".Click-here").on('click', function() {
 ,{name : '16' , marks1 : 19, marks2:15}
 ,{name : '17' , marks1 : "-", marks2:"-"}
 ,{name : '18' , marks1 : 18, marks2:36}
-,{name : '19' , marks1 : 31, marks2:32}
+,{name : '19' , marks1 : 31, marks2:33}
 ,{name : '20' , marks1 : 41, marks2:41}
 ,{name : '21' , marks1 : 22, marks2:19}
 ,{name : '22' , marks1 : "-", marks2:"-"}
